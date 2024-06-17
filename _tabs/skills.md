@@ -1,6 +1,6 @@
 ---
 icon: fas fa-stream
-order: 3
+order: 2
 ---
 #### Here is a list of some of the skills that I have gained over my academic career:
 
