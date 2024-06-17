@@ -1,9 +1,3 @@
----
-title: Education 
-author: Jacob Bettinger
-categories: [Education]
-render_with_liquid: false
----
 # Novi High School
 # 2018-2022
 ### 
