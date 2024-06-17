@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 My name is Jacob Bettinger and I am Computer Science Major at Michigan State University! 
