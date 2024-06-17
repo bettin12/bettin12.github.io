@@ -10,7 +10,8 @@ Minor - Game Design
 
 Current GPA - 3.95
 
-Rewards - 2x Deans List
+Achievements - 2x Deans List
+
 
 # Wayne State University 
 ## 2023-2024
