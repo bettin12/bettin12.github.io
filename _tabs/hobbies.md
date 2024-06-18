@@ -13,6 +13,6 @@ I have a passion for cooking, it began when I worked as a dishwasher in 2021 by 
 
 ![hobbies](assets/food1.png){: width="256" height="217" .w-50 .left}
 
-![hobbies](assets/food2.png)
+![hobbies](assets/food2.png){: width="377" height="478" .w-50 .right}
 
 I also like staying physically active, I go on frequent runs and I spend a lot of my time when I am not working on school or participating in my other hobbies at the gym. Since June, 2023 I've lost around 80+ pounds and have changed my lifestyle completely to a more healthy and productive one.
