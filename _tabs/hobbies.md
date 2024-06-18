@@ -11,7 +11,7 @@ I enjoy reading, mostly fantasy books but I also enjoy reading manga and watchin
 
 I have a passion for cooking, it began when I worked as a dishwasher in 2021 by simply observing the kitchen, and it evolved into something I take great pride in and spend most of my time practicing and trying new dishes. I started work as a line cook in May, 2023 and I learned a lot since that time, met a lot of different chefs that take passion in their work and it inspires me to be more creative.
 
-![hobbies](assets/food1.png) 
+![hobbies](assets/food1.png){: width="256" height="217" .w-50 .left}
 
 ![hobbies](assets/food2.png)
 
